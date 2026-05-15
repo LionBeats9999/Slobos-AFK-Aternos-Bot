@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "LegendPlay.aternos.me",
+    "port": 21285,
     "version": "",
     "try-creative": false
   },
